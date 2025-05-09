@@ -43,14 +43,14 @@ yarn dev
 ## 📁 Project Structure
 
 src/
-└── assets/         # Static assets (if any)
-├── components/     # Reusable components
-├── contexts/       # Task context
-├── hooks/          # Use task
-├── types/          # Custom TypeScript interfaces
-├── App.tsx         # Main application component
-├── index.css       # Global styles + Tailwind setup
-├── main.tsx        # React entry point
+- └── assets/         # Static assets (if any)
+- ├── components/     # Reusable components
+- ├── contexts/       # Task context
+- ├── hooks/          # Use task
+- ├── types/          # Custom TypeScript interfaces
+- ├── App.tsx         # Main application component
+- ├── index.css       # Global styles + Tailwind setup
+- ├── main.tsx        # React entry point
 
 ---
 ## 🧠 Future Improvements
