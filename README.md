@@ -38,3 +38,17 @@ yarn dev
 ```
 
 4. **Visit the app at:** http://localhost:5173
+
+---
+
+
+## 🧠 Future Improvements
+
+📝 Task editing: allow users to update title and description.
+🗓 Due dates & reminders: add scheduling support for deadlines.
+👥 User accounts: authentication system to save personal tasks.
+☁️ Cloud storage: connect to a backend or database (e.g., Firebase).
+🏷️ Tags or categories: to organize tasks by type or project.
+🔔 Notifications: in-app or browser alerts for upcoming tasks.
+📱 Mobile-first PWA: enable offline mode and installable behavior.
+🌐 Multilanguage support: i18n support for global usage.
